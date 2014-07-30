@@ -44,21 +44,18 @@ tr:nth-child(3) td:nth-child(even){
   background-position:center;
   background-repeat: no-repeat;
 }
-
 tr:nth-child(6) td:nth-child(odd){
   background-image: url("http://media.bestlittlesites.com/images/articles/97826.png");
   background-size: 60px;
   background-position:center;
   background-repeat: no-repeat;
 }
-
 tr:nth-child(7) td:nth-child(even){
   background-image: url("http://media.bestlittlesites.com/images/articles/97826.png");
   background-size: 60px;
   background-position:center;
   background-repeat: no-repeat;
 }
-
 tr:nth-child(8) td:nth-child(odd){
   background-image: url("http://media.bestlittlesites.com/images/articles/97826.png");
   background-size: 60px;

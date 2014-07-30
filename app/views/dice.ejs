@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dice</title>
+    <link rel="stylesheet" href="/css/style3.css">
+  </head>
+  <body>
+    <div>
+      <table>
+        <tr> 
+        <% for(var i = 0; i < dice.length; i++){%>
+        <td style="background-image:url(/images/<%= dice[i]%>.png);"> 
+            </td>
+        <% } %>
+        </tr>
+      </table>
+    </div>
+  </body>
